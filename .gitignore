@@ -1,0 +1,4 @@
+.idea
+.vs
+
+/Phonebook.WEB/ClientApp/node_modules/*

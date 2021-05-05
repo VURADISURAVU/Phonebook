@@ -1,0 +1,15 @@
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\Phonebook.BLL.deps.json
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\Phonebook.BLL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\ref\Phonebook.BLL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\Phonebook.BLL.pdb
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\Phonebook.DAL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\bin\Debug\net5.0\Phonebook.DAL.pdb
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.csprojAssemblyReference.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.AssemblyInfoInputs.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.AssemblyInfo.cs
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.csproj.CopyComplete
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\ref\Phonebook.BLL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.BLL\obj\Debug\net5.0\Phonebook.BLL.pdb

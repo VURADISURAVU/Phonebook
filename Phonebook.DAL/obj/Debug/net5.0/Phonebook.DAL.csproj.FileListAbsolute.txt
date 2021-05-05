@@ -1,0 +1,15 @@
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\Phonebook.DAL.deps.json
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\Phonebook.DAL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\ref\Phonebook.DAL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\Phonebook.DAL.pdb
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.csprojAssemblyReference.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.AssemblyInfoInputs.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.AssemblyInfo.cs
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\ref\Phonebook.DAL.dll
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.pdb
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\Phonebook.DAL.runtimeconfig.json
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\bin\Debug\net5.0\Phonebook.DAL.runtimeconfig.dev.json
+C:\Users\Rankhu\Desktop\Projects\VueAspPhonebook\Phonebook.DAL\obj\Debug\net5.0\Phonebook.DAL.genruntimeconfig.cache
